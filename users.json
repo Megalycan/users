@@ -1,19 +1,14 @@
 {
     "users": [
         {
-            "username": "admin",
-            "password": "admin123",
-            "expiration_days": 365
+            "username": "user1",
+            "password": "pass1",
+            "expiration": 1735689600
         },
         {
-            "username": "megalycan",
-            "password": "megalycan123",
-            "expiration_days": 1
-        },
-        {
-            "username": "mary",
-            "password": "mary456",
-            "expiration_days": 2
+            "username": "user2",
+            "password": "pass2",
+            "expiration": 1751241600
         }
     ]
 }
