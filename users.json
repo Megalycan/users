@@ -1,14 +1,12 @@
-{
-  "users": [
-    {
-      "username": "user1",
-      "password": "pass1",
-      "expiration": 1234567890
-    },
-    {
-      "username": "user2",
-      "password": "pass2",
-      "expiration": 1234567890
-    }
-  ]
-}
+[
+  {
+    "username": "user1",
+    "password": "pass1",
+    "expiration": 1234567890
+  },
+  {
+    "username": "user2",
+    "password": "pass2",
+    "expiration": 1234567890
+  }
+]
