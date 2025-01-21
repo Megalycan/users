@@ -1,14 +1,14 @@
 [
     {
         "username": "usuario1",
-        "password": "senha"
+        "password": "senha1",
+        "hwid": "HWID_PERMITIDO_1",
+        "expiration_time": 1672531200
     },
     {
         "username": "usuario2",
-        "password": "senha"
-    },
-    {
-        "username": "usuario3",
-        "password": "senha"
+        "password": "senha2",
+        "hwid": "HWID_PERMITIDO_2",
+        "expiration_time": 1672617600
     }
 ]
