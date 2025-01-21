@@ -2,11 +2,11 @@
   {
     "username": "user1",
     "password": "pass1",
-    "expiration": 1697041234  <!-- Substitua pelo valor calculado -->
+    "expiration": 1697041234  
   },
   {
     "username": "user2",
     "password": "pass2",
-    "expiration": 1697041234  <!-- Substitua pelo valor calculado -->
+    "expiration": 1697041234  
   }
 ]
