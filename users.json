@@ -1,7 +1,7 @@
 [
     {
-        "username": "usuario1",
-        "password": "senha1",
+        "username": "usuario11",
+        "password": "senha11",
         "hwid": "HWID_PERMITIDO_1",
         "expiration_time": 1672531200
     },
