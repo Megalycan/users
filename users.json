@@ -1,12 +1,14 @@
 [
-  {
-    "username": "user1",
-    "password": "pass1",
-    "expiration": 16970 
-  },
-  {
-    "username": "user2",
-    "password": "pass2",
-    "expiration": 1697041234  
-  }
+    {
+        "username": "usuario1",
+        "password": "senha1"
+    },
+    {
+        "username": "usuario2",
+        "password": "senha2"
+    },
+    {
+        "username": "usuario3",
+        "password": "senha3"
+    }
 ]
