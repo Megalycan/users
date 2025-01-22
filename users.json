@@ -1,17 +1,12 @@
 [
-
-{
-
-"username": "user1",
-
-"password": "pass1",
-
-"hwids": ["hwid1", "hwid2"],
-
-"expiration_time": 1625097600
-
-},
-
-
-
+    {
+        "username": "usuario1",
+        "password": "senha123",
+        "hwids": ["MAC:00-1A-2B-3C-4D-5E", "DISK:12345ABCDE"]
+    },
+    {
+        "username": "usuario2",
+        "password": "senha456",
+        "hwids": ["MAC:AA-BB-CC-DD-EE-FF"]
+    }
 ]
