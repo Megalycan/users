@@ -2,7 +2,7 @@
     {
         "username": "user1",
         "password": "senha1",
-        "expiration_minutes": 1440
+        "expiration_minutes": 1
     },
     {
         "username": "user2",
