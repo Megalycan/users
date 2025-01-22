@@ -1,6 +1,6 @@
 [
     {
-        "username": "user",
+        "username": "users",
         "password": "pass1",
         "expiration_minutes": 1
     },
