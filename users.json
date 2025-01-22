@@ -2,7 +2,7 @@
     {
         "username": "user",
         "password": "pass",
-        "expiration_minutes": 1,
+        "expiration_minutes": 1
        
     }
 ]
