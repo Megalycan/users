@@ -1,7 +1,12 @@
 [
-{
-    "username": "novouser",
-    "password": "novasenha",
-    "expiration_minutes": 60
-}
+    {
+        "username": "user1",
+        "password": "senha1",
+        "expiration_minutes": 1440
+    },
+    {
+        "username": "user2",
+        "password": "senha2",
+        "expiration_minutes": 60
+    }
 ]
