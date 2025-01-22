@@ -1,5 +1,7 @@
+[
 {
     "username": "novouser",
     "password": "novasenha",
     "expiration_minutes": 60
 }
+]
