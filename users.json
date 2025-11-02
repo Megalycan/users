@@ -1,6 +1,5 @@
-[
-
-   "users": [
+{
+  "users": [
     {
       "username": "demo",
       "password_hash": "$2b$12$COLOCA_AQUI_O_HASH_GERADO",
@@ -9,7 +8,7 @@
       "role": "user"
     }
   ]
-   
-]
+}
+
 
 
