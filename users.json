@@ -1,12 +1,4 @@
 [
-    {
-        "username": "user1",
-        "password": "pass1",
-        "expiration_minutes": 1
-    },
-    {
-        "username": "user2",
-        "password": "pass2",
-        "expiration_minutes": 120
-    }
+   
 ]
+
