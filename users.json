@@ -4,7 +4,7 @@
     "name": "Megalycan",
     "email": "djkalopt@yahoo.com",
     "passwordHash": "$2a$10$gxrD88QDmxHf5DYqwYtpZOBkaZ9gUMFSwEPtkuWBpWx8wwSq82162",
-    "role": "user",
+    "role": "admin",
     "plan": "free",
     "planSince": null,
     "planExpiresAt": null,
