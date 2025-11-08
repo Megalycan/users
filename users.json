@@ -1,12 +1,3 @@
 [
-  {
-    "username": "Megalycan",
-    "email": "djkalopt@yahoo.com",
-    "password_hash": "$2b$12$0rKTr6KIS/5sRwQbrTL8ue9GxyAXC8kDppTzEnN7bT6ITTPlzYsVq",
-    "created_at": "2025-11-02T18:29:58.824258+00:00",
-    "last_login": null,
-    "roles": [
-      "admin"
-    ]
-  }
+
 ]
