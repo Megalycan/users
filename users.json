@@ -16,9 +16,9 @@
     "email": "kalo@kalo.pt",
     "passwordHash": "$2a$10$ct0Kj6uZw3xSTZLVx//1DOmZ6Gv5a5N42Kr3gNY07kYsO4ZXvp0IC",
     "role": "user",
-    "plan": "free",
-    "planSince": null,
-    "planExpiresAt": null,
+    "plan": "monthly",
+    "planSince": "2025-11-08T13:49:45.961Z",
+    "planExpiresAt": "2025-12-08T13:49:45.961Z",
     "createdAt": "2025-11-08T13:49:04.190Z"
   }
 ]
