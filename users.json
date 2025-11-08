@@ -9,5 +9,16 @@
     "planSince": "2025-11-08T10:28:13.790Z",
     "planExpiresAt": "2025-12-08T10:28:13.790Z",
     "createdAt": "2025-11-08T00:49:49.561Z"
+  },
+  {
+    "id": "18568645-f0fc-4c08-8817-5ad800880832",
+    "name": "kalo",
+    "email": "kalo@kalo.pt",
+    "passwordHash": "$2a$10$ct0Kj6uZw3xSTZLVx//1DOmZ6Gv5a5N42Kr3gNY07kYsO4ZXvp0IC",
+    "role": "user",
+    "plan": "free",
+    "planSince": null,
+    "planExpiresAt": null,
+    "createdAt": "2025-11-08T13:49:04.190Z"
   }
 ]
