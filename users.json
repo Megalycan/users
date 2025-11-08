@@ -1,3 +1,13 @@
 [
-
+  {
+    "id": "4c7d9982-7991-412a-853c-6489d2b79bf2",
+    "name": "Megalycan",
+    "email": "djkalopt@yahoo.com",
+    "passwordHash": "$2a$10$gxrD88QDmxHf5DYqwYtpZOBkaZ9gUMFSwEPtkuWBpWx8wwSq82162",
+    "role": "user",
+    "plan": "free",
+    "planSince": null,
+    "planExpiresAt": null,
+    "createdAt": "2025-11-08T00:49:49.561Z"
+  }
 ]
