@@ -5,9 +5,9 @@
     "email": "djkalopt@yahoo.com",
     "passwordHash": "$2a$10$gxrD88QDmxHf5DYqwYtpZOBkaZ9gUMFSwEPtkuWBpWx8wwSq82162",
     "role": "admin",
-    "plan": "free",
-    "planSince": null,
-    "planExpiresAt": null,
+    "plan": "monthly",
+    "planSince": "2025-11-08T00:54:44.896Z",
+    "planExpiresAt": "2025-12-08T00:54:44.896Z",
     "createdAt": "2025-11-08T00:49:49.561Z"
   }
 ]
